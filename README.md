@@ -78,7 +78,7 @@ In the xterm windows, `~` means `/root`, so use full paths.
 | mail.local (miss) | ds2 | ~510 ms |
 | web.local (hit) | controller | ~6 ms |
 
-Screenshots are in `screenshots/`.
+Screenshots and the full write-up are in `docs/`.
 
 ## Limitations
 - Only link failure is detected, not a crashed server process.
